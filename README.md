@@ -3,6 +3,11 @@
 </p>
 
 ___
-                                 ![GitHub repo size](https://img.shields.io/github/repo-size/SamucaBraga/Proffy)
+
+<p align="center"> 
+<img src="https://img.shields.io/github/repo-size/SamucaBraga/Proffy">
+<img src="https://img.shields.io/github/license/SamucaBraga/Proffy">
+</p>
+![GitHub repo size](https://img.shields.io/github/repo-size/SamucaBraga/Proffy)
 ![GitHub](https://img.shields.io/github/license/SamucaBraga/Proffy)
 
