@@ -1,5 +1,5 @@
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/grioos/proffy-discovery/master/.github/screenshots/logo.png">
+<p align="center">
+  <img src="public/images/logo.png" >
 </p>
 
 ___
