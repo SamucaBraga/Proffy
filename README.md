@@ -7,5 +7,5 @@ ___
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="public/images/Screenshot 1.png" >
+  <img src="https://raw.githubusercontent.com/SamucaBraga/proffy/master/public/images/Screenshot%201.jpg" >
 </p>
