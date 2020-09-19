@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/logo.png" width="150" >
+  <img src="public/images/logo.png" >
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🖥 Screenshots 
+## 🖥 Screenshot
 
 <p align="center">
   <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
