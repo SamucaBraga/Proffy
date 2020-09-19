@@ -2,6 +2,7 @@
   <img src="public/images/logo.png" >
 </p>
 
+<<<<<<< HEAD
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
@@ -208,3 +209,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
 Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
+=======
+___
+
+<p align="center"> 
+<img src="https://img.shields.io/github/repo-size/SamucaBraga/Proffy">
+<img src="https://img.shields.io/github/license/SamucaBraga/Proffy">
+</p>
+
+
+## 🖥 Screenshot
+
+<p align="center">
+  <img src="public/images/Screenshot 1.png" >
+  <img src="public/images/" >
+  <img src="public/images/" >
+</p>
+>>>>>>> 663e6ee9c5159bc4e294bbf5082196b4af6d37f3
