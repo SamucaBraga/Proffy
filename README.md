@@ -7,5 +7,5 @@ ___
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="public/images/Screenshot 1.png >
+  <img src="public/images/Screenshot1.png >
 </p>
